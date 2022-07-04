@@ -1,0 +1,19 @@
+Solution to Q1
+Matrix, M Created with r = 19579 and c = 24927
+
+Solution to Q2 and Q4
+The Accuracy of the Naive Bayes classifier model: 31.306097183534508
+The 95% confidence interval of accuracy: 0.011306967783
+The Precision: 0.10435365727844836
+The f-Score: 0.15894716165782752
+The Sensitivity: 0.21646695
+The Specificity: 0.67535484
+
+Solution to Q3 and Q4
+The Accuracy of the Naive Bayes classifier model with laplace Correction: 83.25595790776849
+The 95% confidence interval of accuracy with laplace Correction: 0.00910354218542
+The Precision with laplace Correction: 0.837798567247146
+The f-Score with laplace Correction: 0.8325304246173398
+The Sensitivity with laplace Correction: 0.85233862
+The Specificity with laplace Correction: 0.87380645
+
